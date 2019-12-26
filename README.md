@@ -1,0 +1,1 @@
+"# nodemmcu--temperature-service" 
